@@ -15,8 +15,8 @@ jp-morgan-ml-takehome/
 │   ├── census-bureau.columns
 │   └── census-bureau.data
 ├── notebooks/
-│   ├── classification.ipynb
-│   └── segmentation.ipynb
+│   ├── JP-Morgan-ML-Classification.ipynb
+│   └── JP-Morgan-ML-Segmentation.ipynb
 ├── figures/
 │   ├── PR Curve.png
 │   ├── ROC Curve + Confusion matrix.png
@@ -25,8 +25,7 @@ jp-morgan-ml-takehome/
 │   ├── GMM(k=5).png
 │   └── UMAP(30).png
 └── docs/
-    ├── ML-TakehomeProject.pdf
-    ├── JP-Morgan-ML-Classification(2).pdf
+    ├── JP-Morgan-ML-Classification.pdf
     └── JP-Morgan-ML-Segmentation.pdf
 ```
 
@@ -51,19 +50,7 @@ pip install -r requirements.txt
 
 ## How to run the project
 
-### 1) Launch Jupyter
-
-```bash
-jupyter notebook
-```
-
-or
-
-```bash
-jupyter lab
-```
-
-### 2) Open the notebooks
+### 1) Open the notebooks
 
 Run the notebooks in the following order:
 
