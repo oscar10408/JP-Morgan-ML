@@ -98,5 +98,5 @@ This repository includes:
 - the two main notebooks
 - the raw data files used to run them
 - a `requirements.txt` file for dependency installation
-- figures and PDF files used in the written submission
+- PDF files used in the written submission
 - this README with setup and execution instructions
