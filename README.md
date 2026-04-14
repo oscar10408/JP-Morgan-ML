@@ -8,7 +8,7 @@ This repository contains my submission for the JP Morgan machine learning take-h
 ## Repository structure
 
 ```text
-jp-morgan-ml-takehome/
+JP-Morgan-ML/
 ├── README.md
 ├── requirements.txt
 ├── data/
@@ -17,13 +17,6 @@ jp-morgan-ml-takehome/
 ├── notebooks/
 │   ├── JP-Morgan-ML-Classification.ipynb
 │   └── JP-Morgan-ML-Segmentation.ipynb
-├── figures/
-│   ├── PR Curve.png
-│   ├── ROC Curve + Confusion matrix.png
-│   ├── Prediction-threshold.png
-│   ├── Important-features.png
-│   ├── GMM(k=5).png
-│   └── UMAP(30).png
 └── docs/
     ├── JP-Morgan-ML-Classification.pdf
     └── JP-Morgan-ML-Segmentation.pdf
