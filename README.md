@@ -11,6 +11,7 @@ This repository contains my submission for the JP Morgan machine learning take-h
 JP-Morgan-ML/
 ├── README.md
 ├── requirements.txt
+├── JP_Morgan_ML_Report.pdf
 ├── data/
 │   ├── census-bureau.columns
 │   └── census-bureau.data
